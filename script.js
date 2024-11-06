@@ -51,3 +51,4 @@ function activateHeat() {
   // increase bread temp
   // TODO: as loop increases, apply value to bread current temp consistently
 }
+console.log("helloWorld!");
